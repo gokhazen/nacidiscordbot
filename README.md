@@ -1,1 +1,1 @@
-# nacidiscordbot
+Naci stands for Non-Artificial Intelligence. The purpose of this bot is to convert the model you're running on your computer into a Discord bot using Ollama. It records the questions asked and the answers provided, building a database. The goal is to expand this database so that it can operate directly without relying on Ollama or similar tools.
